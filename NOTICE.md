@@ -58,28 +58,7 @@ bundle them in forks or release archives. The `Sounds/` folder in this
 repository holds only an explanatory `README.md`. The same separation between
 code and assets should be preserved in any fork.
 
-### 3a. Historical note on the project's origin
-
-This framework was derived from an earlier, private personal mod by the same
-author. That earlier mod used hit/kill/headshot sounds **extracted from the game
-*Battlefield 1***, developed by **DICE** (EA Digital Illusions CE AB) and
-published by **Electronic Arts Inc.** `Battlefield` and `Battlefield 1` are
-trademarks of Electronic Arts Inc. All game audio, artwork and related assets
-remain the property of Electronic Arts Inc. and/or its licensors.
-
-That audio has **never been part of this repository**, is **not** distributed
-with this framework, and is **not** covered by the MIT licence. This framework
-does not contain any extraction instructions, tools or download links, and no
-code in it references that game. The mention here is for attribution and
-historical transparency only.
-
-This project is **not affiliated with, endorsed, sponsored by, or approved by**
-Electronic Arts Inc., DICE, or any Battlefield franchise entity. It is an
-unofficial, non-commercial fan modification. If you are a rights holder and
-want any material here removed or attributed differently, please open an issue
-(or contact the repository owner) and it will be handled promptly.
-
-## 3b. Scope of the MIT licence
+## 4. Scope of the MIT licence
 
 `LICENSE` is the standard, unmodified MIT text so that GitHub can detect the
 licence automatically. It applies **only** to the original source code, build
@@ -92,7 +71,7 @@ It grants **no rights** to any sound file you supply, to Easy Red 2, or to any
 third-party library, binary, tool or game asset referenced by this project. No
 such third-party material is distributed in this repository.
 
-## 4. Other third-party components
+## 5. Other third-party components
 
 This project references, but does not redistribute, the following:
 
@@ -108,13 +87,6 @@ This project references, but does not redistribute, the following:
 No game binaries, no BepInEx binaries, no interop assemblies and no Unity DLLs
 are committed to this repository. Builders must point the project at their own
 installations (see `README.md` → *Building from source*).
-
-## 5. Trademarks
-
-"Easy Red 2", "Battlefield", "Battlefield 1", "DICE", "EA", "BepInEx",
-"Unity" and ".NET" are trademarks or registered trademarks of their respective
-owners. Their use here is for identification and attribution purposes only and
-does not imply endorsement.
 
 ---
 
